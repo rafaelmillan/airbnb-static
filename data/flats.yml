@@ -1,0 +1,24 @@
+richard:
+  owner_name: Richard
+  picture: card-paris.jpg
+  owner_picture: richard.jpg
+  name: Richard's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+akram:
+  owner_name: Akram
+  picture: card-london.jpeg
+  owner_picture: akram.jpg
+  name: Akram's flat
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+julie:
+  owner_name: Julie
+  picture: card-brussels.jpeg
+  owner_picture: julie.jpg
+  name: Julie's crip
+  summary: Nice loft in Brussels
+  city: Brussels, Belgium
+  wifi: true
